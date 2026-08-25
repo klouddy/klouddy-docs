@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: Klouddy Docs
+theme:
+  name: material
+extra_css:
+  - stylesheets/flashcards.css
+extra_javascript:
+  - javascripts/flashcards.js
+nav:
+  - Home: index.md
+  - FIRST Robotics:
+      - Overview: first-robotics/index.md
+      - Student Learning:
+          - Overview: first-robotics/student-learning/index.md
+          - XRP Engineering Design Process: 
+            - Overview: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process.md
+            - Lesson 1:
+              - Overview: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1.md
+              - Cable Car Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-cable-car-challenge.md
+              - Bridge Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-bridge-challenge.md
+              - Launcher Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-launcher-challenge.md
+            - Resources: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-resources.md
+          

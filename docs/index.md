@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Personal Docs and Blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the personal docs site and blog of developer Klouddy.
 
-## Commands
+Use this space to keep reference notes, project writeups, and longer-form documentation in one place.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Sections
 
-## Project layout
+- FIRST Robotics for team notes, writeups, and student learning materials
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+More sections and posts will be added over time.
