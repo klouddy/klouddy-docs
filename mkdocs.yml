@@ -5,10 +5,35 @@ extra_css:
   - stylesheets/flashcards.css
 extra_javascript:
   - javascripts/flashcards.js
+markdown_extensions:
+  - tables
+  - attr_list
 nav:
   - Home: index.md
   - FIRST Robotics:
       - Overview: first-robotics/index.md
+      - FTC:
+          - Overview: first-robotics/ftc/index.md
+          - Kickoff Game Analysis Sheet: first-robotics/ftc/kickoff/index.md
+          - Engineering Design Process:
+              - Overview: first-robotics/ftc/engineering-design-process/index.md
+              - "Weeks 1-2: Problem and Strategy": first-robotics/ftc/engineering-design-process/weeks-1-2-problem-and-strategy.md
+              - "Weeks 3-4: Prototype and CAD/Build": first-robotics/ftc/engineering-design-process/weeks-3-4-prototype-and-build.md
+              - "Weeks 5-6: Integration and Freeze": first-robotics/ftc/engineering-design-process/weeks-5-6-integration-and-freeze.md
+              - "Week 7: Final Prep and Competition": first-robotics/ftc/engineering-design-process/week-7-final-prep-and-competition.md
+          - Team Roles and Workflow: first-robotics/ftc/team-roles-and-workflow.md
+          - Mechanical Best Practices: first-robotics/ftc/mechanical-best-practices.md
+          - Drivetrain Quick Reference: first-robotics/ftc/drivetrain-quick-reference.md
+          - Intake Quick Reference: first-robotics/ftc/intake-quick-reference.md
+          - Intake Types:
+              - Overview: first-robotics/ftc/intake/index.md
+              - Passive Intake or Claw: first-robotics/ftc/intake/passive-intake-or-claw.md
+              - Compliant or Flap Wheel Intake: first-robotics/ftc/intake/compliant-or-flap-wheel-intake.md
+              - Horizontal Roller Intake: first-robotics/ftc/intake/horizontal-roller-intake.md
+              - Vertical Intake: first-robotics/ftc/intake/vertical-intake.md
+              - Tubing or Flexible-Wheel Intake: first-robotics/ftc/intake/tubing-or-flexible-wheel-intake.md
+              - Intake and Transfer Path Patterns: first-robotics/ftc/intake/intake-and-transfer-path-patterns.md
+          - Electrical and Wiring Best Practices: first-robotics/ftc/electrical-and-wiring-best-practices.md
       - Student Learning:
           - Overview: first-robotics/student-learning/index.md
           - XRP Engineering Design Process: 
@@ -18,5 +43,7 @@ nav:
               - Cable Car Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-cable-car-challenge.md
               - Bridge Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-bridge-challenge.md
               - Launcher Challenge: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-1-launcher-challenge.md
+            - Lesson 2: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-2.md
+            - Lesson 3: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-lesson-3.md
             - Resources: first-robotics/student-learning/xrp-engineering-design-process/xrp-engineering-design-process-resources.md
           

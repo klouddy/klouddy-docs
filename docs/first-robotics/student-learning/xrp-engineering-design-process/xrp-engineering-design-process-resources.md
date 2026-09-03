@@ -35,10 +35,14 @@ This page collects the local files and external links referenced by the FIRST XR
 ## Lesson 2
 
 - [Student Slide Deck](https://info.firstinspires.org/hubfs/Education_Resources/XRP/Engineering_Design_Process/EDP-Facilitator-Guide.pdf): Reference guide for Lesson 2.
+- `lesson-2/assets/`: Images used by the converted Lesson 2 MkDocs page.
+- [Penn State University - Public Speaking and Class Presentations](https://psu.pb.unizin.org/collegesuccess/chapter/public-speaking-and-class-presentations/): Presentation support resource referenced in the Lesson 2 share-out.
 
 ## Lesson 3
 
 - [Student Slide Deck](https://info.firstinspires.org/hubfs/Education_Resources/XRP/Engineering_Design_Process/EDP-Facilitator-Guide.pdf): Reference guide for Lesson 3.
+- [3D Printing Guide](../xrp-engineering-design-process-resources/shared/EDP-3D-Printing-Guide.pdf): Reference for printing the primitive shapes used in the lesson.
+- [Printables Model Files](https://www.printables.com/model/1415798-xbs-creating-movement-and-advanced-gears/files): Downloadable model files for the lesson primitives.
 
 ## Lesson 4
 
@@ -74,6 +78,5 @@ These remain external because they are websites or hosted videos rather than les
 - [Printables Model Files](https://www.printables.com/model/1415798-xbs-creating-movement-and-advanced-gears/files): Downloadable 3D models referenced by the unit.
 - [Picking Up Pixels Video](https://youtu.be/sHQKZXmH_0M?t=137): Example robot/video reference.
 - [Java the Hutts Robot Reveal](https://www.youtube.com/watch?v=Ae5kr-Y7UeE): Team design inspiration video.
-- [Lucidchart](https://www.lucidchart.com/): Optional tool for diagrams and mind maps.
 - [Rapid Prototyping Video](https://www.youtube.com/watch?v=-TDn25K-Jh4): Background video on prototyping.
 - [Engineering Drawing / Presentation Video](https://youtu.be/dBT4pyZE-Nc): Supporting video for communication and presentation.

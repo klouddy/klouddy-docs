@@ -39,4 +39,6 @@ All mirrored lesson files are stored in:
 ## Resources
 
 - [Open the Lesson 1 student page](xrp-engineering-design-process-lesson-1.md)
+- [Open the Lesson 2 student page](xrp-engineering-design-process-lesson-2.md)
+- [Open the Lesson 3 student page](xrp-engineering-design-process-lesson-3.md)
 - [Open the XRP Engineering Design Process resources page](xrp-engineering-design-process-resources.md)

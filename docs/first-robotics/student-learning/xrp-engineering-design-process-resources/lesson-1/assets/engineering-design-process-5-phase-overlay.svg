@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 881" width="1000" height="881" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering Design Process with 5-phase overlay</title>
+  <desc id="desc">The original engineering design process diagram with five simplified phase overlays aligned to the existing steps.</desc>
+
+  <image href="engineering-design-process.png" x="0" y="0" width="1000" height="881"/>
+
+  <g fill="none" stroke-linecap="round" stroke-width="26" opacity="0.58">
+    <path d="M 355 113 A 370 370 0 0 1 912 354" stroke="#2563eb"/>
+    <path d="M 911 492 A 370 370 0 0 1 836 741" stroke="#db2777"/>
+    <path d="M 743 806 A 370 370 0 0 1 542 843" stroke="#f59e0b"/>
+    <path d="M 425 842 A 370 370 0 0 1 114 667" stroke="#14b8a6"/>
+    <path d="M 92 577 A 370 370 0 0 1 173 116" stroke="#16a34a"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(738 68)">
+      <rect x="-132" y="-34" width="264" height="68" rx="18" fill="#eff6ff" fill-opacity="0.96" stroke="#2563eb" stroke-width="4"/>
+      <text y="-4" font-size="26" font-weight="700" fill="#1e3a8a">1. Understand the Problem</text>
+      <text y="20" font-size="16" fill="#1e40af">Define, research, requirements</text>
+    </g>
+
+    <g transform="translate(770 648)">
+      <rect x="-120" y="-34" width="240" height="68" rx="18" fill="#fff1f2" fill-opacity="0.96" stroke="#db2777" stroke-width="4"/>
+      <text y="-4" font-size="23" font-weight="700" fill="#9d174d">2. Explore Solutions</text>
+      <text y="20" font-size="16" fill="#be185d">Brainstorm and select</text>
+    </g>
+
+    <g transform="translate(688 836)">
+      <rect x="-120" y="-34" width="240" height="68" rx="18" fill="#fffbeb" fill-opacity="0.97" stroke="#f59e0b" stroke-width="4"/>
+      <text y="-4" font-size="25" font-weight="700" fill="#92400e">3. Prototype and Build</text>
+      <text y="20" font-size="16" fill="#b45309">Develop and prototype</text>
+    </g>
+
+    <g transform="translate(220 806)">
+      <rect x="-118" y="-34" width="236" height="68" rx="18" fill="#f0fdfa" fill-opacity="0.96" stroke="#14b8a6" stroke-width="4"/>
+      <text y="-4" font-size="25" font-weight="700" fill="#115e59">4. Test and Improve</text>
+      <text y="20" font-size="16" fill="#0f766e">Evaluate and refine</text>
+    </g>
+
+    <g transform="translate(230 106)">
+      <rect x="-157" y="-34" width="314" height="68" rx="18" fill="#f0fdf4" fill-opacity="0.97" stroke="#16a34a" stroke-width="4"/>
+      <text y="-4" font-size="23" font-weight="700" fill="#166534">5. Share, Launch, Reflect</text>
+      <text y="20" font-size="16" fill="#15803d">Implement, document, monitor</text>
+    </g>
+  </g>
+</svg>
